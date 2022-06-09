@@ -1,5 +1,8 @@
 {
-	"versionCode": 5,
-	"cancellable": false,
-	"url": "https://play.google.com/store/apps/details?id=mcpbo.pdfmanager"
+  "latestVersion": "10.6.22",
+  "latestVersionCode": "2",
+  "url": "https://play.google.com/store/apps/details?id=com.mcpbo.clasicnih",
+  "releaseNotes": [
+    "- Bug fixes"
+  ]
 }
